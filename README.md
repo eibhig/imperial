@@ -1,3 +1,2 @@
 "This is a readme file for the tutorial repository"
-"this is another change"
-"this is the change"
+"this is the change to the readme file for lab 1"
